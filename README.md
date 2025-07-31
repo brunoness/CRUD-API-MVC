@@ -1,6 +1,6 @@
 # 📦 CRUD API-REST MVC
 
-Este é um projeto backend desenvolvido com o objetivo de aprendizado e boas práticas de desenvolvimento de APIs REST. Ele segue o padrão arquitetural **MVC** e foi criado com foco em estudo, código em inglês para aprimorar o idióma.
+Este é um projeto backend desenvolvido com o objetivo de aprendizado e boas práticas de desenvolvimento de **API REST**. Ele segue o padrão arquitetural **MVC** e foi criado com foco em estudo, código em inglês para aprimorar o idioma.
 
 ---
 
